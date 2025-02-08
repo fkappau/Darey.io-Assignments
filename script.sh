@@ -12,7 +12,7 @@ echo "Hello, welcome to my Multiplication Table"
 # This function prints the multiplication table.
 # Parameters:
 #   $1 - The number to multiply.
-#   $2 - The starting multiplier.
+#   $2 - The starting multiplier
 #   $3 - The ending multiplier.
 #   $4 - The display style (1, 2, or 3).
 # -------------------------------
